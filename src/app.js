@@ -54,3 +54,4 @@ const bounds = Leaflet.latLngBounds(
   myLocations.map((location) => location.location)
 );
 map.fitBounds(bounds);
+// test
